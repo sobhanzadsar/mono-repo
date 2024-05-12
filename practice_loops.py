@@ -4,3 +4,7 @@ while True:
     print("Hello World")
     if counter == 5:
         break
+
+
+for _ in range(10):
+    print(_)
