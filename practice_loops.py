@@ -8,3 +8,9 @@ while True:
 
 for _ in range(10):
     print(_)
+
+
+names = ["Sobhan","Ali","Taghi"]
+
+for item in names:
+    print(item.lower())
